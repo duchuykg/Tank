@@ -253,7 +253,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Tools Wooden Boxes
+
 --- !u!222 &83437566
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -573,7 +573,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Mirror  ( for  multiplayer )
+
 --- !u!222 &613496027
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -753,7 +753,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: https://assetstore.unity.com/packages/tools/network/mirror-129321
+  m_Text: "We have four members including: Pham Hoang Duc Huy, Nguyen Dinh Thi, Ha Le Quoc Thai, and Ha Le Thien Phu.
+"	
 --- !u!222 &1087528261
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -829,7 +830,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TANKS! Credits
+  m_Text: TEAM 10
 --- !u!222 &1116722521
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -943,7 +944,6 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: https://assetstore.unity.com/packages/tools/network/mirror-129321
 --- !u!222 &1249123874
 CanvasRenderer:
   m_ObjectHideFlags: 0

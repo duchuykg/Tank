@@ -24,11 +24,11 @@ public class TankManager : NetworkBehaviour
     // [HideInInspector] public GameObject m_Instance;          
 
     // Server
-    public int m_StartingCash = 500;
+    public int m_StartingCash = 5000;
     [HideInInspector] public int m_Wins;   
     // Both
     [HideInInspector] [SyncVar(hook = nameof(SetControlHook))] public bool m_ControlEnabled = false;  
-    [HideInInspector] [SyncVar(hook = nameof(SetCashHook))] public int m_Cash = 0;
+    [HideInInspector] [SyncVar(hook = nameof(SetCashHook))] public int m_Cash = 1000;
 
     private TankMovement m_Movement;       
     private TankShooting m_Shooting;

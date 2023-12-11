@@ -74,7 +74,7 @@ public class MultiplayerGameManager : NetworkManager
             m_Player.Add(false);
             m_PlayerAlive.Add(false);
             m_PlayerHealth.Add(0f);
-            m_PlayerCash.Add(0);
+            m_PlayerCash.Add(1000);
         }
         m_PlayerColor.Add(Color.red);
         m_PlayerColor.Add(Color.green);

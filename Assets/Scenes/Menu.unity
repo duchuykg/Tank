@@ -487,7 +487,7 @@ GameObject:
   - component: {fileID: 1090943440}
   - component: {fileID: 1090943439}
   m_Layer: 0
-  m_Name: Credits
+  m_Name: ABOUT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -616,7 +616,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CREDITS
+  m_Text: ABOUT
 --- !u!222 &1090943442
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -692,7 +692,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TANKS!
+  m_Text: TANK
 --- !u!222 &1116722521
 CanvasRenderer:
   m_ObjectHideFlags: 0
